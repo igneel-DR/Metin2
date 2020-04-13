@@ -1,0 +1,11 @@
+/* ???? ?? */
+NAME_MAX_NUM,
+
+/* ??? ???? */
+#ifdef ENABLE_EXPRESSING_EMOTION
+			NAME_PUSH_UP,
+			NAME_DANCE_7,
+			NAME_EXERCISE,
+			NAME_DOZE,
+			NAME_SELFIE,
+#endif
